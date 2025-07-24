@@ -1,0 +1,33 @@
+:root {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+body {
+    min-width: 320px;
+    min-height: 100vh;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(
+        90deg,
+        rgb(3, 168, 168) 0%,
+        rgb(39, 255, 237) 59%,
+        rgb(255, 253, 250) 100%
+    );
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3.2em;
+    line-height: 1.1;
+}
+
+#app {
+    height: 100vh;
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+}

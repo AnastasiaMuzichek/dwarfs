@@ -1,0 +1,690 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CarouselImages render > Default render 1`] = `
+<div
+  class="ant-carousel css-dev-only-do-not-override-1p3hq3p"
+>
+  <div
+    class="slick-slider slick-initialized"
+    dir="ltr"
+  >
+    <div
+      class="custom-slick-arrow slick-arrow slick-prev"
+      style="left: 10px; z-index: 1; display: block;"
+    >
+      <span
+        aria-label="left-circle"
+        class="anticon anticon-left-circle"
+        role="img"
+      >
+        <svg
+          aria-hidden="true"
+          data-icon="left-circle"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="64 64 896 896"
+          width="1em"
+        >
+          <path
+            d="M603.3 327.5l-246 178a7.95 7.95 0 000 12.9l246 178c5.3 3.8 12.7 0 12.7-6.5V643c0-10.2-4.9-19.9-13.2-25.9L457.4 512l145.4-105.2c8.3-6 13.2-15.6 13.2-25.9V334c0-6.5-7.4-10.3-12.7-6.5z"
+          />
+          <path
+            d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"
+          />
+        </svg>
+        <!---->
+      </span>
+    </div>
+    <div
+      class="slick-list"
+    >
+      <div
+        class="slick-track"
+        style="width: 2100%;"
+      >
+        
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="-1"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/magichmig.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="false"
+          class="slick-slide slick-active slick-current"
+          data-index="0"
+          style="width: 4.761904761904762%; outline-color: none; outline-style: none; outline-width: initial;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/dobombr.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="1"
+          style="width: 4.761904761904762%; outline-color: none; outline-style: none; outline-width: initial;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/dolibombr.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="2"
+          style="width: 4.761904761904762%; outline-color: none; outline-style: none; outline-width: initial;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/mumbor.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="3"
+          style="width: 4.761904761904762%; outline-color: none; outline-style: none; outline-width: initial;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/nicagor.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="4"
+          style="width: 4.761904761904762%; outline-color: none; outline-style: none; outline-width: initial;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/tanigor.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="5"
+          style="width: 4.761904761904762%; outline-color: none; outline-style: none; outline-width: initial;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/zifigrig.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="6"
+          style="width: 4.761904761904762%; outline-color: none; outline-style: none; outline-width: initial;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/kirkabor.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="7"
+          style="width: 4.761904761904762%; outline-color: none; outline-style: none; outline-width: initial;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/dwalin.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="8"
+          style="width: 4.761904761904762%; outline-color: none; outline-style: none; outline-width: initial;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/tombr.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="9"
+          style="width: 4.761904761904762%; outline-color: none; outline-style: none; outline-width: initial;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/magichmig.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="10"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/dobombr.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="11"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/dolibombr.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="12"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/mumbor.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="13"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/nicagor.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="14"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/tanigor.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="15"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/zifigrig.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="16"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/kirkabor.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="17"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/dwalin.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="18"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/tombr.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide slick-cloned"
+          data-index="19"
+          style="width: 4.761904761904762%;"
+          tabindex="-1"
+        >
+          
+          <div>
+            
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="ant-row ant-row-center css-dev-only-do-not-override-1p3hq3p"
+              >
+                
+                <img
+                  src="/src/assets/images/dwarfs/magichmig.jpg"
+                  style="height: 100px;"
+                />
+                
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+        
+      </div>
+    </div>
+    <div
+      class="custom-slick-arrow slick-arrow slick-next"
+      style="right: 10px; display: block;"
+    >
+      <span
+        aria-label="right-circle"
+        class="anticon anticon-right-circle"
+        role="img"
+      >
+        <svg
+          aria-hidden="true"
+          data-icon="right-circle"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="64 64 896 896"
+          width="1em"
+        >
+          <path
+            d="M666.7 505.5l-246-178A8 8 0 00408 334v46.9c0 10.2 4.9 19.9 13.2 25.9L566.6 512 421.2 617.2c-8.3 6-13.2 15.6-13.2 25.9V690c0 6.5 7.4 10.3 12.7 6.5l246-178c4.4-3.2 4.4-9.8 0-13z"
+          />
+          <path
+            d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"
+          />
+        </svg>
+        <!---->
+      </span>
+    </div>
+    <!---->
+  </div>
+</div>
+`;
